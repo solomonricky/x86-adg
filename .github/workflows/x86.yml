@@ -11,7 +11,7 @@ on:
 
 env:
   REPO_URL: https://github.com/solomonricky/openwrt
-  REPO_BRANCH: master-custom
+  REPO_BRANCH: master-custom-adg
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: devices/x86/.config
   DIY_SH: devices/x86/diy-part.sh
